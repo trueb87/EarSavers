@@ -54,7 +54,9 @@ Advertise in your local area using such tools as
 4. With every order I send out, I include a card with a QR code to my web form so they can request more
 
 In each of these places I recommend you do not give them an email address or use their built in messaging system. 
-Give them a link to your google form and have them fill it out. This will help you better keep track of the requests
+Give them a link to your google form and have them fill it out. This will help you better keep track of the requests.
+
+To avoid being bombareded all at once with a ton of requests for ear savers. I recomenda only one location is advertized at a time. For example, Post on Facebook Market place first. You will get an inrush of orders, but once they slow down and you have replinished your stock, and advertize on Nextdoor, repeat until you have no where left to advertise.
 
 Donations
 ----------
