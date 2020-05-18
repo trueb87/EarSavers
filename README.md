@@ -51,6 +51,7 @@ Advertise in your local area using such tools as
 1. Facebook - If your area has a local facebook group, you can advertise there
 2. Nextdoor - Great place to get ahold of people near you
 3. Craigs List - Many people know about it and use it every day.
+4. With every order I send out, I include a card with a QR code to my web form so they can request more
 
 In each of these places I recommend you do not give them an email address or use their built in messaging system. 
 Give them a link to your google form and have them fill it out. This will help you better keep track of the requests
